@@ -1,0 +1,44 @@
+body{
+    background-color: #79a1af;
+}
+footer{
+    text-align: center;
+}
+.btn-outline-success {
+    color: #79a1af;
+    border-color: #79a1af;
+}
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #79a1af;
+    border-color: #79a1af;
+}
+.btn-outline-success:focus {
+    box-shadow: 0 0 0 0 #79a1af;
+}
+.container-fluid {
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: #fff;
+}
+.col-lg-4 {
+    text-align: center;
+    padding: 15px;
+}
+.card-img-top {
+    height: 200px;
+    width: 135px;
+    margin: auto;
+}
+.service {
+    width: 200px;
+    height: 300px;
+    margin-bottom: 15px;
+}
+#team {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
