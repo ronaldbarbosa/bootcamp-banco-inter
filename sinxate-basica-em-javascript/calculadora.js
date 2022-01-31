@@ -32,7 +32,7 @@ function calculadora() {
         resultado = n1 ** n2;
       }
       function mostraResultado(op) {
-        alert("Resultado: " + n1 + op + n2 + " = " + resultado);
+        alert(`Resultado: ${n1} ${op} ${n2}  =  ${resultado}`);
       }
       switch (operacao) {
         case 1:
