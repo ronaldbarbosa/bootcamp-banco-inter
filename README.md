@@ -8,5 +8,6 @@ Repositório para compartilhar algumas atividades feitas durante o bootcamp  Int
 > [Funções (JavaScript)](https://github.com/ronaldbarbosa/bootcamp-banco-inter/tree/main/funcoes) :heavy_check_mark: <br><br>
 > [Introdução ao Bootstrap](https://github.com/ronaldbarbosa/bootcamp-banco-inter/tree/main/introducao-ao-bootstrap) :heavy_check_mark: <br><br>
 > [Coleções (JavaScript)](https://github.com/ronaldbarbosa/bootcamp-banco-inter/tree/main/colecoes) :heavy_check_mark: <br><br>
+> [Debugging e error handling (JavaScript)](https://github.com/ronaldbarbosa/bootcamp-banco-inter/tree/main/debugging-e-error-handling) :heavy_check_mark:
 ### Status do projeto: 
 > 🚧 em construção 🚧
